@@ -1,0 +1,7 @@
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\bin\Debug\DemoSoapService.exe.config
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\bin\Debug\DemoSoapService.exe
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\bin\Debug\DemoSoapService.pdb
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\obj\Debug\DemoSoapService.csproj.AssemblyReference.cache
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\obj\Debug\DemoSoapService.csproj.CoreCompileInputs.cache
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\obj\Debug\DemoSoapService.exe
+C:\Users\Noised\source\repos\DemoSoapService\DemoSoapService\obj\Debug\DemoSoapService.pdb
